@@ -1,0 +1,49 @@
+* {
+    margin: 1px;
+    padding: 0;
+}
+.main {
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    text-align: center;
+    align-items: center;
+}
+.task {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.word {
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.answer {
+    margin-top: 30px;
+    width: 200;
+    height: 25px;
+    padding: 5px;
+    font-size: 20px;
+}
+.button_answer, .button_go, .mn, .rp{
+    margin-top: 15px;
+    width: 100px;
+    height: 30px;
+}
+.status {
+    font-size: 25px;   
+    margin-top: 15px;
+}
+.real_answer {
+    margin-top: 10px;
+    font-size: 17px;
+}
+.error {
+    height: 70px;
+}
+.errors {
+    margin: 0 auto;
+    font-size: 20px;
+    font-weight: bold;
+}
